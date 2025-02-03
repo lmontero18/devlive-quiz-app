@@ -1,4 +1,4 @@
-import Title from "../atoms/title";
+import Title from "../atoms/Title";
 import PlayerNameInput from "../molecules/PlayerNameInput";
 
 interface HomeContentProps {
